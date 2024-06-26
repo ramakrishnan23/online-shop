@@ -1,0 +1,31 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css");
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+.navbar{
+    background-color: black;
+    color: white;
+}
+
+.card{
+    background-color: whitesmoke;
+    border: 2px solid none;
+
+}
+.card-group{
+    height: px;
+    width: 1150px;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    margin-left: 11%;
+    margin-right: 5%;
+
+}

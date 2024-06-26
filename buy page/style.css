@@ -1,0 +1,20 @@
+.payment{
+    margin-left: 38%;
+    border: 2px solid black;
+}
+.cancel{
+    text-align: right;
+    padding: 20px;
+    background-color: aquamarine;
+    font-size: 24px;
+    
+}
+a{
+    text-decoration: none;
+}
+.footer{
+    text-align: center;
+    background-color:  #fea000 ;
+    padding: 20px;
+    
+}
